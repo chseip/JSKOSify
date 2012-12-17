@@ -1,6 +1,6 @@
 package tests;
 
-/* Test */
+/* Test 2*/
 
 public class Book {
 
